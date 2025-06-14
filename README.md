@@ -10,7 +10,7 @@
 > 
 > 结果发现不能clone,因为没有魔法。所以，我们使用Code -> Download ZIP手动下载clash_for_linux-main.zip这个文件，然后上传到目标linux服务器
 > 
-> 接下来，使用unzip clash_for_clash-main.zip解压缩
+> 接下来，使用unzip clash_for_linux-main.zip解压缩
 > 
 然后，cd clash_for_linux-main/ 
 
