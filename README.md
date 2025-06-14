@@ -26,7 +26,7 @@ sudo bash install.sh
 
 clashon 
 
-然后就可以使用HTTPS_PROXY=http://127.0.0.1:7890 git clone https://huggingface.co/。。。。进行下载github和hugging face上的内容了比如：
+然后就可以使用HTTPS_PROXY=http://127.0.0.1:7890 git clone https://huggingface.co/。。。。进行下载github和hugging face上的内容了, 比如：
 
 HTTPS_PROXY=http://127.0.0.1:7890 git clone https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF
 
