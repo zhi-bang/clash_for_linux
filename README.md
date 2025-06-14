@@ -6,7 +6,7 @@
 
 首先，我们使用如下命令将文件clone到linux宿主机
 
-> git clone https://github.com/zhi-bang/clash_for_clash.git
+> git clone https://github.com/zhi-bang/clash_for_linux
 > 
 > 结果发现不能clone,因为没有魔法。所以，我们使用Code -> Download ZIP手动下载clash_for_linux-main.zip这个文件，然后上传到目标linux服务器
 > 
