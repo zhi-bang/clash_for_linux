@@ -1,1 +1,1 @@
-# clash_for_clash
+# clash_for_linux
