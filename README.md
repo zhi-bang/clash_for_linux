@@ -18,7 +18,7 @@
 
 sudo bash install.sh
 
-输入订阅连接
+输入订阅连接（没有订阅的可以查看如下网站：https://sakura-cat1.com/）
 
 然后看到提示 “未检测到代理变量，可执行 clashon 开启代理环境”
 
