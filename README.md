@@ -2,6 +2,7 @@
 这是我分享的关于在linux上使用魔法的工具文件，首先说明一下，作者不是我。
 > ⚠️ 本项目原始作者为：https://github.com/nelvko
 > 本仓库仅用于分享或备份，原始版权归原作者所有。
+<img width="1851" height="1100" alt="image" src="https://github.com/user-attachments/assets/40e1b260-97b4-4d77-82db-56f10129933b" />
 
 
 首先，我们使用如下命令将文件clone到linux宿主机
